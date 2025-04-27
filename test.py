@@ -153,7 +153,7 @@ def main(auto_mode=False):
         print("\n⚡ 请检查以上所有配置是否正确。")
 
     
-
+# 1111111111111111111111111
 if __name__ == '__main__':
     auto_mode = False
 
