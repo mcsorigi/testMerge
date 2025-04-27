@@ -152,8 +152,8 @@ def main(auto_mode=False):
             print(item)
         print("\n⚡ 请检查以上所有配置是否正确。")
 
-    
 
+#22222222222222222222222
 if __name__ == '__main__':
     auto_mode = False
 
